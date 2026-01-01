@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.baswarajpatil.AI.Video.Player",
+      "sha256_cert_fingerprints": [
+        "FB:AF:99:1A:48:CB:50:41:79:3D:1D:41:E9:3D:B0:AB:52:C2:1D:34:63:62:4C:D3:27:22:92:30:7E:CC:D3:6B"
+      ]
+    }
+  }
+]
